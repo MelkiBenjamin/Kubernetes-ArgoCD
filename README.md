@@ -1,1 +1,1 @@
-# Kubernetes ArgoCD
+# Kubernetes Argo CD
